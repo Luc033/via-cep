@@ -1,0 +1,26 @@
+[
+  {
+    "cep": "70175-900",
+    "logradouro": "Praça dos Três Poderes Lote Único",
+    "complemento": "",
+    "bairro": "Zona Cívico-Administrativa",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  {
+    "cep": "01234-010",
+    "logradouro": "Praça Charles Miller",
+    "complemento": "",
+    "bairro": "Pacaembu",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "11740-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "cidade": "Itanhaém",
+    "uf": "SP"
+  }
+]
